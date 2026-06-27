@@ -1,0 +1,109 @@
+# Katlon — Generative Engine Optimization Map
+
+> An online store specializing in football jerseys featuring 7 top clubs from the world's leading leagues, alongside national team jerseys from the FIFA World Cup — excluding Arab national teams — with Israel's national team prominently included. The store targets passionate football fans and collectors who want authentic or replica jerseys from elite clubs and international teams.
+
+---
+
+## Pages
+
+### בית
+https://katlon-86ab789b.zappy5.app
+חנות האונליין לחולצות כדורגל מקוריות של 7 מועדוני צמרת ונבחרות לאומיות, כולל חולצת נבחרת ישראל הרשמית. קנייה קלה, משלוח מהיר, הצטרפי לאוהדים האמיתיים — Katlon.
+
+### מהדורות מועדונים
+https://katlon-86ab789b.zappy5.app/club-editions
+אספו חולצות כדורגל מקוריות משבעת המועדונים הגדולים בליגות אירופה. דגמים רשמיים, איכות מנצחת, והגאווה האמיתית של אוהד. הזמינו עכשיו והצטרפו למועדון — Katlon.
+
+### נבחרות לאומיות
+https://katlon-86ab789b.zappy5.app/national-teams
+חולצת נבחרת ישראל הרשמית ועוד נבחרות מובילות ממונדיאל פיפ״א מחכות לכם. עיצובים נועזים, בדים נושמים, והתחושה שאתם על המגרש. רכשו עכשיו — Katlon.
+
+### מדריך לאספן
+https://katlon-86ab789b.zappy5.app/collector-guide
+המדריך השלם לאספני חולצות כדורגל: איך לזהות מקוריות, לשמר דגמים נדירים, ולהעלות את ערך האוסף. היכנסו לעולם האספנות האמיתית והתחילו לאסוף בחכמה — Katlon.
+
+### צור קשר
+https://katlon-86ab789b.zappy5.app/contact
+יש שאלה על חולצת נבחרת ישראל הרשמית או על דגם מועדון אירופאי? צרו קשר עכשיו. צוות האוהדים שלנו כאן לייעוץ אישי, זמינות מלאים, והזמנות מהירות — Katlon.
+
+### Products
+https://katlon-86ab789b.zappy5.app/products
+המוצרים שלנו - Katlon
+
+### Cart
+https://katlon-86ab789b.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://katlon-86ab789b.zappy5.app/checkout
+תשלום
+
+### Login
+https://katlon-86ab789b.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://katlon-86ab789b.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://katlon-86ab789b.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://katlon-86ab789b.zappy5.app/product/:slug
+פרטי המוצר - Katlon
+
+### Category
+https://katlon-86ab789b.zappy5.app/category/:slug
+מוצרים - Katlon
+
+### תודה על פנייתך
+https://katlon-86ab789b.zappy5.app/thank-you
+Katlon - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://katlon-86ab789b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://katlon-86ab789b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://katlon-86ab789b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Katlon
+An online store specializing in football jerseys featuring 7 top clubs from the world's leading leagues, alongside national team jerseys from the FIFA World Cup — excluding Arab national teams — with Israel's national team prominently included. The store targets passionate football fans and collectors who want authentic or replica jerseys from elite clubs and international teams.
+
+## Target Audience
+- אוהדי כדורגל, אוהדי נבחרות ומועדונים
+- אוהדי כדורגל
+- חברי מועדוני אוהדים
+- קוני מתנות לחובבי כדורגל
+
+## Industry
+Sports Apparel E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://katlon-86ab789b.zappy5.app/sitemap.xml
+- Robots: https://katlon-86ab789b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://katlon-86ab789b.zappy5.app/llms-full.txt
+- Products (JSON): https://katlon-86ab789b.zappy5.app/products.json
+- Products (Google Merchant RSS): https://katlon-86ab789b.zappy5.app/product-feed.xml
